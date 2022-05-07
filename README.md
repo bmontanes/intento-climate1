@@ -16,6 +16,6 @@ Now your science and technology blog is up and running. Happy blogging!
 - Make sure you commit changes to the branch from which github pages are published.
 - I have only tested this repository on Ubuntu 16.04. If everything doesn't work smoothly,
 you'll probably have to look it up.
-## About
-This is a simple template for creating a Science and Technology Blog.
-The code base is inspired from [Emerald repository](https://github.com/KingFelix/emerald).
+## Un poco sobre este block
+Este es una prueba para crear una pagina web que hable sobre la visualizacion del cambio climatico a traves de imagenes satelitales.
+Este codigo esta inspirado en [Emerald repository](https://github.com/KingFelix/emerald).

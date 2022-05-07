@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Science and Technology Blog
+title: Visualizacion del cambio climatico a traves de imagenes satelitales.
 ---
 ## About
 
-This is a simple template for creating a Science and Technology Blog.
+This is a simple template for creating a climate change Blog.
 
 The template contain following features:
 
